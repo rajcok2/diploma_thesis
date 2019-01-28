@@ -1,5 +1,3 @@
-prof. RNDr. Roman Ďurikovič, PhD.
-
 * [Projektový seminár 1](https://dai.fmph.uniba.sk/w/Course:Project_Seminar_1/sk)
 * [Projektový seminár 2](https://dai.fmph.uniba.sk/w/Course:Project_Seminar_2/sk)
 
