@@ -22,19 +22,19 @@ databázovom systéme PostgreSQL. Súčasťou práce bude aj experimentálne
 vyhodnotenie relevantných parametrov vytvoreného nástroja.
 
 ### Progres
-2.-15.10.2018
+02.-15.10.2018
 ```
 podrobné preštudovanie knižníc, ktoré boli určené za vhodné pre diplomovú prácu počas projektového semináru 1
 ```
-22.-31.2018
+22.-31.10.2018
 ```
 testovanie preštudovaných funkcionalít zozbieraných knižníc
 ```
-4.-30.11.2018
+04.-30.11.2018
 ```
 technický návrh a implementácia prototypu nášho riešenia
 ```
-12.12.2018-19.1.2019
+12.12.2018-19.01.2019
 ```
 písanie teoretickej časti diplomovej práce
 ```
